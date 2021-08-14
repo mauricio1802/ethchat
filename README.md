@@ -1,0 +1,2 @@
+# ethchat
+Chatting on Ethereum
